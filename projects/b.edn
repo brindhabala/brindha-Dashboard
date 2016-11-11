@@ -1,0 +1,6 @@
+{:project/name "b",
+ :project/tagline "b",
+ :project/repo-url "http://b",
+ :project/home-page-url "http://b",
+ :project/description "b",
+ :project/beginner-friendly true}
